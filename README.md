@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @b1-66-er-zero-one
+- 👋 Hi, I’m @b1-66-er
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on ALL
